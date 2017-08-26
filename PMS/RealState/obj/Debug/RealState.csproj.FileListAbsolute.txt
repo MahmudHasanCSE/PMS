@@ -1,0 +1,6 @@
+E:\wabe\RealState\RealState\bin\RealState.dll.config
+E:\wabe\RealState\RealState\bin\RealState.dll
+E:\wabe\RealState\RealState\bin\RealState.pdb
+E:\wabe\RealState\RealState\obj\Debug\RealState.csprojResolveAssemblyReference.cache
+E:\wabe\RealState\RealState\obj\Debug\RealState.dll
+E:\wabe\RealState\RealState\obj\Debug\RealState.pdb
